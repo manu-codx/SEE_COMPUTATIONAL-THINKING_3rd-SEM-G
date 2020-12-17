@@ -80,7 +80,7 @@ pairs in data2
 Lines n1+3 to n1+n2+2: Two integers
 k and v per line representing the
 key and value (these n2 key value
-pairs are added to data2)
+pairs, are added to data2)
 
 This also prints the output in the
 following format after calling the
